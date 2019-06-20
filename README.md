@@ -29,7 +29,7 @@ sudo ./xel.py
 ```
 poss = ['1337', '1337-H4X0R']
 ```
-Change to what you want to have for example KING
+Change to what you want to have , for example  `KING`
 
 ## Change node 
 ```
