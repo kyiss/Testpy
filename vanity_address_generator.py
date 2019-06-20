@@ -34,4 +34,4 @@ while not found:
 		continue
 
 print('Found passphrase => ', passphrase)
-print('Time taken: ', time.time()-stime)he XEL blockchain
+print('Time taken: ', time.time()-stime)
