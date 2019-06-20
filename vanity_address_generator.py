@@ -2,6 +2,8 @@
 #You need a local XEL server running
 #You need the 'requests' Python library
 
+#!/usr/bin/env python3
+
 import requests
 import random
 import time
