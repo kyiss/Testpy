@@ -20,8 +20,8 @@ url_bal = 'http://localhost:17876/nxt?=%2Fnxt&requestType=getBalance&account={}'
 
 stime = time.time()
 found = False
-while not found:
-	passphrase =  ('%s%s' % ('S', ''.join([BASE58[ random.SystemRandom().randrange(0,len(BASE58)) ] for i in range(20)])))
+while not found
+	passphrase =  ('%s%s' % ('S', ''.join([BASE58[ random.SystemRandom().randrange(0,len(BASE58)) ] for i in range(34)])))
 	address = requests.get(url_pw.format(passphrase)).json()['accountRS']
 	bal = float(requests.get(url_bal.format(address)).json()['unconfirmedBalanceNQT'])
 
