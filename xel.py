@@ -8,7 +8,7 @@ import requests
 import random
 import time
 
-BASE58 = '23456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz'
+BASE58 = '◘○◙☼¶§▬ !"#$%&()*+,-./012456789:;<=>?@ABCDEFGHIJKLMNOPRSTUVWXYZ[\]^_abcdefghijklmnopqrstuvwxyz{|}~ÇüéâäàåçêëèïîìæÆôöòûùÿ¢£¥₧ƒáùóúñÑªº¿¬½¼¡«»│ßµ±°∙²€…†‡‰Š‹Œ©®¯­¹¾ÀÁÂÃÄÅÐÒÓÔÖ×ØÙ'
 poss = ['1337', '1337-H4X0R']
 
 address = ''
